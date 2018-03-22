@@ -58,15 +58,23 @@
             "Key": "19b18779-dee2-4a1e-afee-78994ec64902",
             "Value": {
                 "id": "4f2e414a-df3c-4e57-88b8-df874c7159a5",
-                "resourcePath": "objects\\obj_Player2\\obj_Player2.yy",
+                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "21c6a674-104c-435f-ac44-057cb7f90f35",
+            "Value": {
+                "id": "65e7c07e-1f76-4da5-b140-450a78dc1d9d",
+                "resourcePath": "rooms\\rm3\\rm3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
             "Key": "2d2c0615-2dbb-4904-8d65-df227d145561",
             "Value": {
                 "id": "e27c1ffa-c110-4bbe-92cc-972e33958327",
-                "resourcePath": "objects\\obj_Player1\\obj_Player1.yy",
+                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -79,11 +87,27 @@
             }
         },
         {
+            "Key": "407a9296-d492-4b87-9b65-b06ef3f8e622",
+            "Value": {
+                "id": "31956af2-2d89-4fab-9e94-671c2b32ce30",
+                "resourcePath": "rooms\\rmP1Win\\rmP1Win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "41929c80-ad8b-445a-9aad-7d1968d0fdf3",
             "Value": {
                 "id": "da06c330-0685-45fb-869c-87376d3f5f80",
                 "resourcePath": "sprites\\sprPlayer1\\sprPlayer1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "48b2c8c1-16ce-4330-bf04-fc73bf47b538",
+            "Value": {
+                "id": "d3ca831d-3c48-4b29-aef3-32dcbbc4031d",
+                "resourcePath": "objects\\objP1WinText\\objP1WinText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -132,6 +156,14 @@
                 "id": "29b2431b-e269-4f21-a793-8a12808d122a",
                 "resourcePath": "views\\8cfdd60b-c72e-44cc-b4fa-63426025ce28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93c76b82-2cf9-49da-87e3-97627f59f154",
+            "Value": {
+                "id": "8d766aa3-be1c-4cf7-8e90-08e2982400e6",
+                "resourcePath": "fonts\\fntMain\\fntMain.yy",
+                "resourceType": "GMFont"
             }
         },
         {
