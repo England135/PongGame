@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2bbde9a4-d5f8-407a-896f-aac35677b018",
+            "Value": {
+                "id": "ecf46494-d4ef-4dd9-9946-122132706666",
+                "resourcePath": "objects\\objP2WinText\\objP2WinText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d2c0615-2dbb-4904-8d65-df227d145561",
             "Value": {
                 "id": "e27c1ffa-c110-4bbe-92cc-972e33958327",
@@ -156,6 +164,14 @@
                 "id": "29b2431b-e269-4f21-a793-8a12808d122a",
                 "resourcePath": "views\\8cfdd60b-c72e-44cc-b4fa-63426025ce28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8e1c4b3c-de8c-4d14-a943-49100cf45f72",
+            "Value": {
+                "id": "ea5a905a-b1f4-4d32-accb-a4925a14c202",
+                "resourcePath": "rooms\\rmP2Win\\rmP2Win.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
