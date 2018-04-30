@@ -7,4 +7,4 @@ draw_set_color(c_maroon);
 draw_set_font(fntMain);
 draw_text(500, 300, "Player 2 Wins");
 
- audio_play_sound(sndBackground, 10, false);
+draw_text(500, 600, "Press A to Restart");

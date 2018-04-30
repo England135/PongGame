@@ -1,3 +1,2 @@
 /// @description Background Music
-
- audio_play_sound(sndBackground1, 10, false);
+audio_play_sound(sndBackground1, 5, false);
